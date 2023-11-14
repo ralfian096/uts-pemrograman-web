@@ -1,0 +1,36 @@
+Nama: Muhammad Rifky Alfian
+NIM: 22416255201178
+
+Jawaban UTS
+1. Apa yang dimaksud Framework pada pengembangan aplikasi?
+Jawaban:
+Framework adalah kerangka kerja yang dibuat untuk mempermudah pengembangan suatu aplikasi.
+Framework biasanya memiliki standar penulisan yang direkomendasikan sehingga akan memudahkan programmer untuk menulis kode dan melakukan debugging.
+Standar penulisan tersebut membuat kode yang ditulis oleh seorang programmer dapat dibaca dan dipahami oleh programmer lain yang menggunakan framework yang sama.
+
+Di dalam Framework terdapat library, module, function, dan template yang akan memudahkan programmer dalam mengembangkan aplikasi.
+
+
+2.1. Sebutkan tema proyek yang digarap!
+Jawaban:
+Koperasi
+
+2.2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk masing - masing anggota!
+Jawaban:
+Anggota:
+1. Muhammad Rifky Alfian, sebagai Fullstack Developer & Penanggung jawab proyek
+2. Muhamad Haris Syahroni, sebagai Frontend Developer & Penyusun laporan
+3. Delvita Widaningsih Caniago, sebagai Frontend Developer & Penyusun laporan
+
+2.3. Permasalahan yang didapat setelah wawancara dengan client
+Jawaban:
+1. Client meminta dibuatkan sistem informasi keanggotaan koperasi dimana salah satu fitur yang diinginkan adalah registrasi calon anggota secara online.
+Dalam proses registrasi calon anggota harus memasukan data dan identitas diri serta izin usaha (karena koperasi tersebut merupakan koperasi konsumen) untuk dilakukan
+verifikasi data oleh pengurus koperasi. Namun, client ingin agar ketika calon anggota selesai melakukan registrasi secara otomatis sistem mengirimkan notifikasi ke perangkat
+pengurus agar pengurus tidak perlu membuka sistem secara berkala untuk memeriksa apakah ada data baru yang menunggu verifikasi atau tidak.
+Setelah berdiskusi dengan client, kesimpulan yang kami dapatkan adalah client ingin dibuatkan sistem yang dapat mengirim notifikasi melalui Whatsapp atau Web push notification seperti Firebase.
+
+2. Koperasi memiliki aturan mengenai simpanan anggota. Setiap anggota aktif wajib membayar iuran simpanan kepada koperasi. Saat ini sistem yang berjalan masih secara manual dimana
+anggota membayar iuran simpanan secara tunai dengan mendatangi kepengurusan koperasi, kemudian pengurus koperasi mencatat menggunakan excel atau secara menual iuran simpanan yang masuk dari anggota.
+Client ingin agar proses ini dilakukan secara otomatis, mulai dari pembayaran iuran hingga pencatatan pemasukan dari anggota.
+Kesimpulan yang kami dapat adalah client ingin dibuatkan sistem pembayaran menggunakan payment gateway agar pembayaran dan verifikasi iuran simpanan dapat dilakukan secara otomatis oleh sistem.
